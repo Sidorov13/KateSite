@@ -25,7 +25,8 @@ h1, h2, h3, p{margin: 0;}
   margin-bottom: 10px;
 }
 .s2 h3 {
-  color: #008209;
+ /* color: #008209;*/
+      color: #009D91;
   text-align: center;
 }
 #divflex {
@@ -35,7 +36,8 @@ h1, h2, h3, p{margin: 0;}
 
 h1, h2{
 
- color: #008209;
+/* color: #008209;*/
+ color:#009D91;
  font-size: 35px;
   font-weight: 900;
     line-height: 1;
@@ -284,9 +286,11 @@ border-radius: 30px;
 
 .s1{
 	
-     margin-top: 20px;
+ 
   padding-top: 0;
-  background: linear-gradient(180deg, #FFF 0%, #FFF 22.29%, #FFF 39.07%, #fff .66%, #009D91   100%);
+  background: linear-gradient(180deg, #FFF 0%, #FFF 22.29%, #FFF 39.07%, #fff .66%, #CA9763   100%);
+  
+  /*009D91*/
 }
 .s1 .content{
   width: 50%;
@@ -317,7 +321,7 @@ border-radius: 30px;
   width: 90%;
   margin-bottom: 29px;
 }
-.s1 ul{
+#s1p{
   border-radius: 20px;
   //*border: 1px solid rgba(255, 255, 255, 0.70);*/
   background: rgba(255, 255, 255, 0.50);
@@ -328,7 +332,8 @@ border-radius: 30px;
   width: 100%;
   font-size: 15px;
   font-weight: 500;
-  background: linear-gradient(#5DCEC6 , #00665E);
+   /*background: linear-gradient(#5DCEC6 , #00665E);*/
+  background: linear-gradient(#efe3d7, #CA9763);
 }
 .s1 .price{
   font-size: 20px;
@@ -341,7 +346,8 @@ background-color: red;
 
 .s1 .price span{
   background-clip: text;
-  color: #747AB1 ;
+  /*color: #008209 ;*/
+  color:#009D91;
   /*-webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
   font-size: 30px;
@@ -361,11 +367,13 @@ background-color: red;
 }
 .s2{
 
-background: linear-gradient(#5DCEC6, #00665E)
+/*background: linear-gradient(#5DCEC6, #00665E);*/
+    background: linear-gradient(#EBD8C6, #CA9763);
 }
 .s3{
   padding-bottom: 100px;
-  background: #FAFAFA;
+  /*background: #FAFAFA;*/
+  background:linear-gradient(#CA9763 ,#EBD8C6);
 }
 .s3 h2{
   margin-bottom: 32px;
@@ -500,6 +508,8 @@ position: absolute;
 
 
 
+
+
 .s55 .descr{
   position: absolute;
   bottom: 10%;
@@ -561,7 +571,8 @@ position: absolute;
 }
 .s7{
   background: #FAFAFA;
-      background: linear-gradient(#5DCEC6, #00665E);
+      /*background: linear-gradient(#5DCEC6, #00665E);*/
+         background: linear-gradient(#EBD8C6, #CA9763);
 
 }
 .s7 h2{
@@ -721,7 +732,8 @@ position: absolute;
 .s10 .price span, .box-modal .price span{
 
   background-clip: text;
-  color: #747AB1 ;
+  /*color: #008209 ;*/
+  color:#009D91;
   /*-webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
 
@@ -827,7 +839,7 @@ position: absolute;
 }
 
 #footercenter {
-text-align:center;
+
 .a {
   color:inherit;
 }
