@@ -334,6 +334,8 @@ border-radius: 30px;
   font-weight: 500;
    /*background: linear-gradient(#5DCEC6 , #00665E);*/
   background: linear-gradient(#efe3d7, #CA9763);
+  border-color: #008a77; /* Цвет границы */
+    border-style: solid;
 }
 .s1 .price{
   font-size: 20px;
