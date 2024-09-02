@@ -1,6 +1,6 @@
 $( ".openModal" ).click(function(e) {
         // URL, который нужно открыть
-        var linkUrl = 'https://pay.fondy.eu/s/OI3eY4KPsQ2NZ';
+        var linkUrl = 'https://t.me/Kati_Stykalo';
 
         // Открыть ссылку в новом окне или вкладке
         window.open(linkUrl, '_blank');
